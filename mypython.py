@@ -1,0 +1,2 @@
+# small python script
+print("Hello World!")
